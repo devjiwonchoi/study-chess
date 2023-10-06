@@ -18,4 +18,11 @@ If there are no forced moves, nor any good tactics, look for a best choice for m
 ## Step 4 - Sort out the Candidate Moves
 
 Sort out the candidate moves made from [[Thought Process#Step 2 - Neutralize Threats, Look for tactics|step 2]] and [[Thought Process#Step 3 - Find Strategy|step 3]].
+Find the best move of the opponent responding to my move.
+
+## Step 5 - Choose the best move
+
+Based on [[Thought Process#Step 4 - Sort out the Candidate Moves|step4]], choose the best move that will benefit me even though the opponent choose the best move.
+1. Better position
+2. No threats for me
 
